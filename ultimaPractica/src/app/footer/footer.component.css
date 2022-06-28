@@ -1,0 +1,13 @@
+.footer{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(9, 9, 97);
+}
+
+.text{
+    position: relative;
+    text-align: center;
+    top: 30px;
+    color: wheat;
+}

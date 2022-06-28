@@ -1,0 +1,40 @@
+.banner{
+   widows: 100%;
+   height: calc(108h-50px);
+
+}
+
+.cap{
+    width: 100%;
+    height: 100%;
+    padding: 200px 0;
+    background-color: rgb(160, 154, 154);
+    
+  
+}
+
+
+.contenido{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    color:rgb(29, 2, 78);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contenido h1{
+    margin: 20px;
+    font-size: 40px;
+
+}
+
+.contenido p{
+    margin: 20px;
+    font-size: 35px;
+}
